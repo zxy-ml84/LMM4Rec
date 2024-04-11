@@ -23,6 +23,9 @@ The codes of LMM4Rec are implemented and tested under the following development 
 * torch==1.10.3
 * torch_scatter==2.0.6
 
+## Update:
+We intend to submit this version to the multi-modal recommendation library shortly.
+
 
 ## Usage
 * Configure the xx.conf file in the directory named conf. (xx is the name of the model you want to run)</li>
