@@ -9,7 +9,7 @@ If you want to use our codes in your research, please cite:
 @article{yi2023large,
   title={Enhancing Recommender Systems: Deep Modality Alignment with Large Multi-Modal Encoders},
   author={Yi, Zixuan and Long, Zijun and Ounis, Iadh and Macdonald, Craig and Mccreadie, Richard},
-  journal={Transations on Recommender System},
+  journal={Transactions on Recommender System},
   year={2024}
 }
 
